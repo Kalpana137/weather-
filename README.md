@@ -11,7 +11,7 @@ I built a Weather Web App that shows real-time weather details for any city. It 
 💻 Source Code: https://github.com/Kalpana137/weather-.git
 
 Key Features:
-🌍 Search weather by city name
-🌡️ Displays temperature, humidity, and weather conditions
-📱 Responsive design (works on desktop & mobile)
-⚡ Fast and lightweight, built with vanilla JavaScript
+-🌍 Search weather by city name
+-🌡️ Displays temperature, humidity, and weather conditions
+-📱 Responsive design (works on desktop & mobile)
+-⚡ Fast and lightweight, built with vanilla JavaScript
